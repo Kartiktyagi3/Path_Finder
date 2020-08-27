@@ -7,6 +7,14 @@
 ##### 2. run the following command "python .\pathfinding.py"
 
 ### Examples
+
+#### Color Scheme 
+##### Orange : Path for the current block
+##### Black : Explored tiles , not part of path to current block
+##### Cyan : Obstacles , Cannot be used in a path
+##### Lighter Tile Shade : Blocks currently in queue
+##### Darker Tile Shade : Blocks not explored yet
+
 #### Settings
 ![Alt Text](https://github.com/Kartiktyagi3/Path_Finder/blob/master/PF_gif/Path_Finding_settings.gif)
 
